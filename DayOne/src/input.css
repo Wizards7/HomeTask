@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    b{
+        color: #06B3A8;
+    }
+    p{
+        color: #001E18B2;
+    }
+    li{
+        margin: 10px 0px;
+    }
+}
